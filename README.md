@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋,
+My name is Rustênio Júnior, student in I.T in 8º and last semester from graduation;
+I Have 24 years old, actually working in Infrastructure/Helpdesk (System Operator) and studying Javascript and Flutter, 
+
 
 <!--
 **RustaJr/RustaJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
