@@ -1,10 +1,16 @@
 ### Hi there 👋,
+
 My name is Rustênio Júnior, student in I.T in 8º and last semester from graduation;
-I Have 24 years old, actually working in Infrastructure/Helpdesk (System Operator) and studying Javascript and Flutter, 
+I Have 24 years old, actually working in Infrastructure/Helpdesk (System Operator),
+Actually studying Javascript and Flutter.
+
+Me chamo Rustenio Junior, sou estudante do 8º semestre de Sistemas de Informação;
+Tenho 24 anos, e atualmente trabalho na área de Infraestrutura/Helpdesk como Operador de Sistemas,
+Atualmente estudando Javascript e Flutter.
 
 
 <!--
-**RustaJr/RustaJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RustenioJunior/RustenioJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
