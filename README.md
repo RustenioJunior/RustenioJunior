@@ -1,11 +1,11 @@
 ### Hi there 👋,
 
 My name is Rustênio Júnior, student in I.T in 8º and last semester from graduation;
-I Have 25 years old, actually working in Infrastructure/Helpdesk (System Operator),
+I Have 25 years old, actually working in Infrastructure/Helpdesk (IT technician),
 Actually studying Javascript and Flutter.
 
 Me chamo Rustenio Junior, sou estudante do 8º semestre de Sistemas de Informação;
-Tenho 25 anos, e atualmente trabalho na área de Infraestrutura/Helpdesk como Operador de Sistemas,
+Tenho 25 anos, e atualmente trabalho na área de Infraestrutura/Helpdesk como Técnico em Informática,
 Atualmente estudando Javascript e Flutter.
 
 
