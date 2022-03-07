@@ -1,12 +1,12 @@
 ### Hi there 👋,
 
-My name is Rustênio Júnior, student in I.T in 8º and last semester from graduation;
+My name is Rustênio Júnior, graduated in Information Systems;
 I Have 25 years old, actually working in Infrastructure/Helpdesk (IT technician),
-Actually studying Javascript and Flutter.
+Actually studying Javascript and Flutter, with experience in C#, .NET, and Xamarin.
 
 Me chamo Rustenio Junior, sou estudante do 8º semestre de Sistemas de Informação;
 Tenho 25 anos, e atualmente trabalho na área de Infraestrutura/Helpdesk como Técnico em Informática,
-Atualmente estudando Javascript e Flutter.
+Atualmente estudando Javascript e Flutter, com experiência em C#, .NET, and Xamarin.
 
 
 <!--
